@@ -4,28 +4,28 @@ This project is a simple web application that displays real-time metrics using 1
 
 ## Features
 
-- 16 real-time updating cards displaying various metrics related to freight and transportation.
+- 16 real-time updating cards displaying various metrics related to the QA team.
 - A pie chart in the center of the screen that visualizes the overall health of the metrics.
 - Responsive design to ensure usability across different devices.
 
 ## Cards Overview
 
-1. Total Fretes
-2. Meta Mensal
-3. Dias Sem Lançamento
-4. Contratado no Prazo
-5. Tempo Médio de Contratação
-6. Total Ocorrências no Mês
-7. Ocorrências Resolvidas no Prazo
-8. Tempo Médio de Resolução
-9. Transportadores Engajados
-10. Transportadores Ativos
-11. Total de Canhotos
-12. Aprovados no Prazo
-13. Tempo Médio de Aprovação
-14. Fretes Rastreados
-15. Entregas no Prazo
-16. Coletas no Prazo
+1. Total de TestCase
+2. Total de TestCases Manuais
+3. Total de TestCases Automatizados
+4. Total Importancia Baixa
+5. Total Importancia Média
+6. Total de Palavras Chaves
+7. Total Importancia Alta
+8. Qtd. de TestCases Status Draft
+9. Tempo Médio Exec. Manual
+10. Qtd. de TestCases Status Final
+11. Tempo Médio Exec. Automatizado
+12. Qtd. de Anexos
+13. Total de Execuções de TestCases
+14. TestCases Não Executados
+15. Quantidade de TestCases Embarcador
+16. Quantidade de TestCases Transportador
 
 ## Technologies Used
 
