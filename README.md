@@ -1,6 +1,8 @@
-# Simple Web App
+![Dashboard](img/dashboard.png)
 
-This project is a simple web application that displays real-time metrics using 16 cards and a pie chart to visualize the overall health of the data. The application fetches data from a MySQL database through an API.
+# Simple Dashboard QA team
+
+This project is a simple dashboard QA team that displays real-time metrics using 16 cards and a pie chart to visualize the overall health of the data. The application fetches data from a MySQL database through an API.
 
 ## Features
 
