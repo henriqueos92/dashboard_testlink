@@ -233,6 +233,9 @@ function App() {
           <PieChartComponent data={pieChartData} />
         </div>
       </div>
+      <footer className="footer">
+        Desenvolvido pela equipe de Q.A
+      </footer>
     </div>
   );
 }
