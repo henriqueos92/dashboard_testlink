@@ -83,6 +83,7 @@ body {
     font-weight: bold;
     color: white;
     padding-left: 170px;
+    padding-right: 85%;
   }
 
   .index__navbar {
@@ -118,4 +119,32 @@ body {
     bottom: 0;
     width: 100%;
     flex: 1;
+}
+
+.menu-icon {
+    font-size: 30px;
+    color: white;
+    cursor: pointer;
+    padding-top: 10px;
+}
+
+.dropdown-menu {
+    position: absolute;
+    top: 48px;
+    right: 20px;
+    background: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.dropdown-menu a {
+    display: block;
+    padding: 10px 20px;
+    color: #333;
+    text-decoration: none;
+}
+
+.dropdown-menu a:hover {
+    background: #f0f0f0;
 }
