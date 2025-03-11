@@ -198,7 +198,6 @@ function App() {
     { name: 'Alta Importância', value: highImportanceCount },
     { name: 'Média Importância', value: mediumImportanceCount },
     { name: 'Baixa Importância', value: lowImportanceCount },
-    { name: 'Outros', value: testCaseCount - highImportanceCount - mediumImportanceCount - lowImportanceCount },
   ];
 
   return (
